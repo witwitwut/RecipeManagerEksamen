@@ -20,6 +20,13 @@ namespace EksamenM2E22017.Entities
             Ingredients = ingredients;
         }
 
+        public Recipe(int iD, int persons, string name)
+        {
+            ID = iD;
+            Persons = persons;
+            Name = name;
+        }
+
         public Recipe(int iD, int persons, string name, List<Ingredient> ingredients)
         {
             ID = iD;

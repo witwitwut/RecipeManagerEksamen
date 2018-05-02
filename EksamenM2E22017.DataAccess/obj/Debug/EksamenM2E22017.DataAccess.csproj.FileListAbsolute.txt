@@ -7,3 +7,12 @@ C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeM
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.csproj.CopyComplete
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.dll
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.pdb
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\bin\Debug\EksamenM2E22017.DataAccess.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\bin\Debug\EksamenM2E22017.DataAccess.pdb
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\bin\Debug\EksamenM2E22017.Entities.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\bin\Debug\EksamenM2E22017.Entities.pdb
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.csproj.CopyComplete
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.DataAccess\obj\Debug\EksamenM2E22017.DataAccess.pdb

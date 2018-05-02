@@ -7,3 +7,12 @@ C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeM
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.csproj.CopyComplete
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.dll
 C:\Users\mikk571a\OneDrive for Business\Softwarekonstruktion\S2\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.pdb
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\bin\Debug\EksamenM2E22017.Services.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\bin\Debug\EksamenM2E22017.Services.pdb
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.csprojResolveAssemblyReference.cache
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.csproj.CoreCompileInputs.cache
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.csproj.CopyComplete
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.dll
+C:\Users\mikk571a\Desktop\Eksamens\RecipeManager-master\EksamenM2E22017.Services\obj\Debug\EksamenM2E22017.Services.pdb

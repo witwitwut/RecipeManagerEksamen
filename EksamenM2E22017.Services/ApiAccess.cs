@@ -25,7 +25,7 @@ namespace EksamenM2E22017.Services
 
         public JToken GetApiResponse(string queryString)
         {
-            string url = EndPoint + queryString;
+            string url = EndPoint + $"?format=json&action=query&prop=&exintro=&explaintext=&title={queryString}";
             JToken pageValue;
             using (WebClient client = new WebClient())
             {
